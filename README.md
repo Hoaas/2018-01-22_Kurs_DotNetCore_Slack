@@ -1,0 +1,1 @@
+# 2018-01-22_Kurs_DotNetCore_Slack
